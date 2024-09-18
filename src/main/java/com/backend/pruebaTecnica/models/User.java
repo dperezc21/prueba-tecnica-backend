@@ -1,10 +1,5 @@
 package com.backend.pruebaTecnica.models;
 
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.Setter;
-
-@AllArgsConstructor
 public class User {
 	private Integer id;
 	private String name;
