@@ -9,9 +9,10 @@
 
 ## Rutas
 ### obtener lista de usuarios: GET http://localhost:8080/isPalindromo
-#### body: ```{
-                "palindrome": ""
-              }```
+#### body: 
+          {
+              "palindrome": ""
+          }
 
 
 ### Palindroma: GET http://localhost:8080/users/all
